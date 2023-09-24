@@ -5,7 +5,7 @@ const nextConfig = {
     return [
       {
         source: "/:path*",
-        destination: "https://hey.xyz/:path*",
+        destination: "https://tape.xyz/:path*",
         permanent: true,
       },
     ];
